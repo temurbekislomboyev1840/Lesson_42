@@ -1,0 +1,7 @@
+.deleteImage{
+    width: 25px;
+    cursor: pointer;
+}
+.editStudent{
+    display: none;
+}
